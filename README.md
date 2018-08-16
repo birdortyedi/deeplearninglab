@@ -30,3 +30,9 @@ TR: https://birdortyedi.github.io/birdortyedi/2018/04/01/derin-%C3%B6%C4%9Frenme
 ENG: https://medium.com/deep-learning-turkey/deep-learning-lab-episode-4-deep-fashion-2df9e15a63e1
 
 TR: https://birdortyedi.github.io/birdortyedi/2018/06/16/derin-%C3%B6%C4%9Frenme-lab-b%C3%B6l%C3%BCm-4
+
+**[Deep Learning Lab] Episode-5: CIFAR-100:**
+
+ENG: Upcoming..
+
+TR: Upcoming..
